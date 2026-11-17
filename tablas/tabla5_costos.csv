@@ -1,0 +1,4 @@
+modelo,parametros,t_entren_s,t_epoca_s,mem_pico_gb,latencia_ms
+Conjunto,76746,293.664,1.958,0.471,2.046
+GRU,58826,39.087,0.261,0.038,2.012
+Separado,110282,71.052,0.474,0.624,2.359
